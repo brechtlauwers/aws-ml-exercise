@@ -1,4 +1,5 @@
 # aws-ml-exercise
+Brecht Lauwers r0830649  
  AWS exercise that makes use of Rekognition and Polly.
 
 app.py -> main python flask web application  
